@@ -1,0 +1,15 @@
+/workspaces/GL-travail/MonApplication/bin/Debug/net10.0/MonApplication
+/workspaces/GL-travail/MonApplication/bin/Debug/net10.0/MonApplication.deps.json
+/workspaces/GL-travail/MonApplication/bin/Debug/net10.0/MonApplication.runtimeconfig.json
+/workspaces/GL-travail/MonApplication/bin/Debug/net10.0/MonApplication.dll
+/workspaces/GL-travail/MonApplication/bin/Debug/net10.0/MonApplication.pdb
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.AssemblyInfoInputs.cache
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.AssemblyInfo.cs
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.csproj.CoreCompileInputs.cache
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.sourcelink.json
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.dll
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/refint/MonApplication.dll
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.pdb
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/MonApplication.genruntimeconfig.cache
+/workspaces/GL-travail/MonApplication/obj/Debug/net10.0/ref/MonApplication.dll
